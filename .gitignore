@@ -1,0 +1,14 @@
+# visual studio
+.vs
+bin
+build
+obj
+*.opensdf
+*.filters
+*.sdf
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
