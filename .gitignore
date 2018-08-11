@@ -3,6 +3,7 @@
 bin
 build
 obj
+packages
 *.opensdf
 *.filters
 *.sdf
